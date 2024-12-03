@@ -1,5 +1,5 @@
 {
-  "Version": 18,
+  "Version": 19,
   "Assets": [
     {
       "Url": "https://raw.githubusercontent.com/ekdjodiweknmicvne/knweiwnknehr/main/UIRes/serveropcode.json",
@@ -29,7 +29,7 @@
     {
       "Url": "https://raw.githubusercontent.com/ekdjodiweknmicvne/knweiwnknehr/main/UIRes/NotoSansCJKsc-Medium.otf",
       "FileName": "UIRes/NotoSansCJKsc-Medium.otf",
-      "Hash": "7334F0BADA3A7D52E1C642217EB7EA21BE700421"
+      "Hash": "C8AC9E680749BF31536971BC51DB257DDBAF3E68"
     },
     {
       "Url": "https://raw.githubusercontent.com/ekdjodiweknmicvne/knweiwnknehr/main/UIRes/NotoSansKR-Regular.otf",
